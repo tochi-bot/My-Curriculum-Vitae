@@ -1,2 +1,2 @@
 # myfirstproject
-sample project
+curriculum Vitae
